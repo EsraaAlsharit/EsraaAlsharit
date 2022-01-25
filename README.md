@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/esra_a_shan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esra_a_shan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucudqnaghukcfio2p3al6x1a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucudqnaghukcfio2p3al6x1a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/esraaalsharit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="esraaalsharit" height="30" width="40" /></a>
-<a href="https://discord.gg/Esra_a_shan#3218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Esra_a_shan#3218" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
