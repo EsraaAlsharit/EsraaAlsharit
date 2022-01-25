@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraaalsharit&label=Profile%20views&color=0e75b6&style=flat" alt="esraaalsharit" /> </p>
 
+- 🌱 I’m currently learning **all about web development**
+
+- 📫 How to reach me **esraa.alsharit@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1f9KVb4vXM7lHYbf50mHbgW7ZRMuJ2k3m/view?usp=sharing](https://drive.google.com/file/d/1f9KVb4vXM7lHYbf50mHbgW7ZRMuJ2k3m/view?usp=sharing)
+
+- ⚡ Fun fact **I like anime & manga**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/es00chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="es00chan" height="30" width="40" /></a>
