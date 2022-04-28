@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **esraa.alsharit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f9KVb4vXM7lHYbf50mHbgW7ZRMuJ2k3m/view?usp=sharing](https://drive.google.com/file/d/1f9KVb4vXM7lHYbf50mHbgW7ZRMuJ2k3m/view?usp=sharing)
+- 👨‍💻 My projects are available at [https://esraa-alsharit.netlify.app/](https://esraa-alsharit.netlify.app/)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o9tfsOg8G6eKzJlbEOnNRahsrrE28mmm/view?usp=sharing](https://drive.google.com/file/d/1o9tfsOg8G6eKzJlbEOnNRahsrrE28mmm/view?usp=sharing)
 
 - ⚡ Fun fact **I like Anime, Manga & Video Games**
 
