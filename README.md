@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My projects are available at [My Portfolio](https://esraa-alsharit.netlify.app/)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16z8M2oDUWGFt6tciSqQdLLSKlLIPL7cw/view?usp=sharing)
+<!-- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16z8M2oDUWGFt6tciSqQdLLSKlLIPL7cw/view?usp=sharing) -->
 
 - ⚡ Fun fact **I like Anime, Manga & Video Games**
 
