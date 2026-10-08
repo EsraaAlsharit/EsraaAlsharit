@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraaalsharit&label=Profile%20views&color=0e75b6&style=flat" alt="esraaalsharit" /> </p>
 
-- 🌱 I’m currently learning **all about web development**
+- 🌱 I’m currently learning and development **all about web development**
 
 - 📫 How to reach me **esraa.alsharit@gmail.com**
 
